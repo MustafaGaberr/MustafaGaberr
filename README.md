@@ -242,6 +242,6 @@ If you have any questions about web development, writing mistake-free documentat
 </div>
 
 ------
-Credit: [10Kartik](https://github.com/10Kartik)
+Credit: [MustafaGaberr](https://github.com/MustafaGaberr/MustafaGaberr)
 
-Last Edited on: 18/01/2024
+Last Edited on: 15/02/2025

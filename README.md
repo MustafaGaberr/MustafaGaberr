@@ -16,10 +16,11 @@
 <br>
 <div>
   <div align=center>
-      <img height="200" alt="Avatar photo of KK10" src="https://github.com/MustafaGaberr/Lab1---Test/blob/main/ForReadme/297504044-21742f3f-d9a7-4a53-8530-7d20d51e03a9.png" alt="Avatar photo of KK10">
+      <img height="200" alt="Avatar photo of Gabour" src="https://github.com/MustafaGaberr/Lab1---Test/blob/main/ForReadme/297504044-21742f3f-d9a7-4a53-8530-7d20d51e03a9.png" alt="Avatar photo of Gabour">
   </div>
   <div align=center>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Kartik;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;Backend+and+iOS+Developer;CS2+and+Football+Lover;Hardworking+and+Ambitious;Gym+Freak;Music+and+Programming+Lover" alt="Typing SVG" /></a>
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&center=true&vCenter=true&width=500&lines=Hey%2C+I+am+Gabour;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;
+						  React.js-Next.js-Node.js+and+Flutter+Developer;Valorant+and+TableTennis+Lover;Hardworking+and+Ambitious;Gym+Freak" alt="Typing SVG" /></a>
   </div>
 </div>
 
@@ -35,20 +36,20 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
+ * @param {string} location - Aswan, Egypt.
+ * @param {string} languagues - English, Arabic.
  * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
+ * @param {string} specialization - Building full-fledged Backend systems and Cross Platform applications.
  * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
+ * @param {string} hobbies - Video Editing, Reading, gaming & Progamming.
+ * @param {string} education - Computer Engineering, Information Technology Institute, Aswan.
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
  * @param {string} weakness - Shyness.
  *
  * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} Gabour.
  */
 ```
 

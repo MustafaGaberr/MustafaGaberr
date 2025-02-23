@@ -24,7 +24,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&width=500&lines=Hey%2C+I+am+Gabour;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;React.js-Next.js-Node.js+and+Flutter+Developer;Valorant+and+TableTennis+Lover;Hardworking+and+Ambitious;Gym+Freak" 
     alt="Typing SVG" />
   </a>
-  <p>▶ About me</p>
+
 </div>
 
 </div>

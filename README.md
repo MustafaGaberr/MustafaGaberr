@@ -18,11 +18,14 @@
   <div align=center>
       <img height="200" alt="Avatar photo of Gabour" src="https://github.com/MustafaGaberr/Lab1---Test/blob/main/ForReadme/297504044-21742f3f-d9a7-4a53-8530-7d20d51e03a9.png" alt="Avatar photo of Gabour">
   </div>
- <div style="display: flex; justify-content: center;">
+
+ <div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
+  <img src="your-avatar-image.png" alt="Avatar" width="150" />
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?font=VT323&size=35&duration=3500&pause=300&color=6A0572&width=500&lines=Hey%2C+I+am+Gabour;Welcome+to+My+GitHub+Profile;Inquisitive+and+Curious+by+nature;Software+and+Computer+Engineer;React.js-Next.js-Node.js+and+Flutter+Developer;Valorant+and+TableTennis+Lover;Hardworking+and+Ambitious;Gym+Freak" 
     alt="Typing SVG" />
   </a>
+  <p>▶ About me</p>
 </div>
 
 </div>

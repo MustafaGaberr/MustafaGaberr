@@ -1,6 +1,6 @@
-<p align = "center">
-	<img src = "https://github.com/MustafaGaberr/Lab1---Test/blob/main/ForReadme/views.svg" alt = "Profile Views"/>
-</p>
+  <!-- <p align = "center">
+    <img src = "https://github.com/MustafaGaberr/Lab1---Test/blob/main/ForReadme/views.svg" alt = "Profile Views"/>
+  </p> -->
 <p align = "center">
 	<img src = "https://github.com/MustafaGaberr/Lab1---Test/blob/main/ForReadme/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>

@@ -26,4 +26,6 @@ I am a Junior Full-Stack Developer with 1 year of experience. I specialize in bo
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/MustafaGaberr"><img src="https://github-readme-stats.vercel.app/api?username=MustafaGaberr&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="MustafaGaberr's GitHub stats" /></a>
+<a href="https://github.com/MustafaGaberr">
+  <img src="https://github-readme-stats.vercel.app/api?username=MustafaGaberr&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="MustafaGaberr's GitHub stats" />
+</a>
